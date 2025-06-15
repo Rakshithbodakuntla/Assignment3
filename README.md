@@ -59,7 +59,7 @@
 
 
     
- **Short Answer Questions:**
+ ** 5. Short Answer Questions:**
  ** What is the main architectural difference between BERT and GPT? Which uses an encoder and which uses a decoder?**
       
        The main architectural difference between BERT and GPT lies in their Transformer components. BERT uses only the Transformer encoder, 
